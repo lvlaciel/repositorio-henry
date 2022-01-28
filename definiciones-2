@@ -1,0 +1,5 @@
+For: Estructura que se usa en programacion para hacer trabajos de repetición de forma mas simple
+`&&`, `||`, `!`: Operadores logicos para determinar exresiones booleanas 
+'&&': Significa 'y' o 'and' en ingles devuelve 'true' si ambos datos son verdaderos sino 'false'
+'||': Significa 'o' u 'or' en ingles devuelve 'true' si uno de los datos es verdadero y 'false' si ambos son falsos
+'!': Significa  'no' o 'not' en ingles es una negacion al valor impuesto, es decir devuelve lo contrario
