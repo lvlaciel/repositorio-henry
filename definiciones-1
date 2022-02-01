@@ -1,6 +1,5 @@
-Variables: Es una técnica para guardar un valor y usarlo en cualquier momento. Como por ejemplo:
-En una caja de herramientas guardas un martillo y lo sacas cuando necesitas.
-Strings: Caracteres de cualquier tipo que siempre empiezan y terminan con comillas.
-Funciones: Grupo de códigos que luego se prodran invocar para como por ejemplo facilitar alguna descripción.
-Declaraciones: Declarar algo es darle un significado a una palabra como por ejemplo var hola=12
-Valores booleanos: Es un tipo de dato que se aplica en un codigo para indicar verdadero o falso
+(Variables): Es una forma o tecnica que se usa para guardar o almacenar un valor que despues podemos utilizar. Como por ejemplo: se guarda una venda en un bolso y se usa en el momento indicado
+(Strings): Cadena de caracteres de cualquier tipo que se encierran entre comillas siempre
+(Funciones): Grupos de objetos invocables, serie fluida de codigo para agilizar operaciones, descripciones, etc. invocandolas con un argumento definido.
+(Declaraciones): Definir una variable, funcion, constante
+(Booleanos): Tipo de datos con dos outputs o respuestas posibles en js 'true' verdadero y 'false' falso.
