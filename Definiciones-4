@@ -1,0 +1,5 @@
+* Objetos: Estructura que se usa para almacenamiento de datos (propiedades) que corresponden a un elemento 
+* Propiedades: Un objeto se arma con dos palabras llamadas CLAVE:VALOR esa asociacion es la propiedad
+* Métodos: Son las funciones que se arman dentro de un objeto
+* Bucle `for…in`: Similar al for comun pero que se usa para recorrer un objeto ya que no tiene indice numerico
+* Notación de puntos vs notación de corchetes: La notacion de puntos se usa para llamar a una propiedad del objeto de manera mas rapida. La notacion de corchetes permite acceder a mas tipos de propiedades.
