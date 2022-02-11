@@ -1,0 +1,3 @@
+`Prototype`: Forma que tienen las class para establecer un metodo y asi todos los objetos de esa class 
+             pueden acceder a ese metodo sin tener que repetir funciones muchas veces
+_Constructors_ (de Clases): Metodo especial para crear un objeto a partir de una class
